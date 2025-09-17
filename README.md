@@ -1,2 +1,0 @@
-# vinay
-work project description
